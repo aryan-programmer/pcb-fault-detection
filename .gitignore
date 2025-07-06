@@ -1,0 +1,3 @@
+pcb-defect-detection-datasets/my_secrets.py
+pcb-components-detection-datasets/my_secrets.py
+**/__pycache__
