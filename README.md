@@ -760,3 +760,13 @@ Export the models to ONNX for deployment.
 See [`pcb_fault_detection_ui`](https://github.com/aryan-programmer/pcb_fault_detection_ui) for the final deployed desktop application.
 
 Also, view the demo on YouTube here: [YouTube Demo Link](https://youtu.be/tCxNRT4C0cI). The `./test_images` directory contains the images used in the demo.
+
+## Uploaded Dataset on Kaggle for Component Detection
+
+Given the intricate aggregation and preprocessing pipeline associated with the component detection dataset, the consolidated dataset has been deposited on Kaggle, accessible at the link given below. Its approximate size is 2.87 GB.
+
+- [PCB Component Detection Consolidated Dataset](https://www.kaggle.com/datasets/aryanstein/pcb-component-detection-consolidated-dataset)
+
+This action facilitates access for other researchers and practitioners who may benefit from this aggregated data for their respective PCB component detection initiatives.
+
+It should be noted that the uploaded dataset intentionally excludes tiled images, as these are considered redundant and may not be universally required or desired; they can be generated on an as-needed basis. Furthermore, their inclusion would have augmented the dataset's size to approximately 5 GB.
